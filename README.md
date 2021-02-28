@@ -12,3 +12,6 @@ Please visit OGAMAs homepage at http://www.ogama.net.
 
 Please note: from Mai 2016 on I have no more time to support this project anymore. It´s more than five years since I left university and coded and supported this project just for fun. But as you might know, this is a huge code basis and there are too much support and feature requests for my limited time. But at least it is open source. so get your hands on it, if you like it. Until someone takes over the administraton I may add you to the developers list on codeplex. Thanks for the good time!
 Adrian
+
+
+NOTE: This version is forked from the originall. I am not a coder whatsoever but will keep this here in case the original gets removed.
